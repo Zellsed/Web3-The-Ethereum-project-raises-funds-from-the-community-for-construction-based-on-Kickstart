@@ -1,0 +1,17 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next-routes": "^1.4.2",
+    "react-tsparticles": "^2.12.2",
+    "solc": "^0.4.17"
+  }
+}
