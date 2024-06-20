@@ -63,12 +63,10 @@
 ## Prerequisites to create Campaign and Contribute
 1. Install **Metamask** as Google Chrome Extension and Create an account.
 
-2.  Request Ether by sharing your ethereum address in social media <br>`(https://faucet.sepolia.io/)`
-
-3. Get ether free by giving the ethereum address <br>`(http://sepolia-faucet.com/)`
+2. Get ether free by giving the ethereum address <br>`(https://cloud.google.com/application/web3/faucet/ethereum/holesky)`
 
 # To Deploy your own Contract 
-1. Create an account at [https://infura.io](https://infura.io/) and select the Ethereum network "sepolia" as the main network.
+1. Create an account at [https://infura.io](https://infura.io/) and select the Ethereum network "holesky" as the main network.
 
 2. In the "ethereum/deploy.js" section, adjust the provider as follows:
 
