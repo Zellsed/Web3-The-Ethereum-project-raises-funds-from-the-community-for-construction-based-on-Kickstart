@@ -1,9 +1,5 @@
 # The Ethereum project raises funds from the community for construction based on Kickstart.
 
-### Description
-
-- This project is constructed based on the reference to the kickstart website, incorporating nearly all the logics of a crowdfunding platform. However, this website enhances security by utilizing blockchain as the primary tool for storage and interaction. It allows users to create new campaigns, and they become the sole managers of those campaigns without relying on or needing permission from others. Once a campaign is created, its information becomes immutable. Additionally, each campaign enables the deployer to create new requests for mobilizing and utilizing funds from the community. However, when executing such requests, the participants in the campaign need to vote on the feasibility of the request. If the number of affirmative votes exceeds half of the participants, the request is approved, allowing the deployer to mobilize the specified funds.
-
 ### The major problems with the current crowdfunding platforms that I wanted to solve were:
 
 - Security: As the funds become larger, they need to be heavily secured. Although stringent measures such as symmetric encryption are in place to make e-payment safe and secure, it is still vulnerable to hacking. Blockchain, which has never been compromised yet, can provide that level of security.
@@ -45,16 +41,6 @@
 - This page allows the deployer to create new requests.
 
 ![{F94F9F51-F51F-4BE1-AD73-365628F16E6D} png](https://github.com/Zellsed/defi-staking-app-starter/assets/155917734/ad5bc20c-b8ba-4051-bb9a-4bc0fa48c3fb)
-
-# Tech Stack 
-- Web3.js
-- Node.js
-- Next JS
-- React JS
-- React Semantic UI
-- Solidity
-- Infura
-- Metamask
 
 # To run the application locally
 ### Navigate to the command prompt, go to the directory containing the project, and execute the commands to install dependencies.
